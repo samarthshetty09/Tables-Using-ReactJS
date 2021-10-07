@@ -1,0 +1,28 @@
+#footer{
+    text-align: center;
+    background-position: 0% 0%;
+    background-color: #212529;
+    color: white;
+    width: 100%;
+    background-attachment: scroll;
+    position: fixed;
+    bottom: 0pt;
+    left: 0pt;
+    cursor: default;
+}
+
+#footer p{
+    padding: 10px;
+}
+
+form button{
+    width: 100px;
+}
+
+#headStyle{
+    margin-bottom: 15px;
+}
+#linkDeco{
+    text-decoration: none;
+    
+}
